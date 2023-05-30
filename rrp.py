@@ -14,7 +14,7 @@ from make_model import *
 from Utils import *
 import tensorflow as tf
 
-print("\033[1;31m ================================[  Respiratory Rate Prediction Starts  ]=================================\033[0m")
+print("[  Respiratory Rate Prediction Starts  ]")
 LOAD_FORM_SAVE = False
 LOAD_MODEL = False
 WIN_SIZE = 125*16
